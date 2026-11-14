@@ -1,5 +1,5 @@
 
-# Prospect Assist AI — Team Fintech Frontiers (IDBI Innovate · PS2)
+# Prospect Assist AI
 
 Prospect-stage lead intelligence for retail lending, covering **all four PS loan
 products** — Personal, Home, Auto, Mortgage/LAP. Ranks the bank's existing customers
